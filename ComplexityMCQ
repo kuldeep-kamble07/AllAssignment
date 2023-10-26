@@ -1,0 +1,32 @@
+1) Ans :-time complexity O(n^2)
+	There are two nested loops in the code. for each value of i the inner loop executed n times and inner loop is nested within outer loop  so it runs n time the total number of iteration n*n.
+	
+	Space complexity :- O(1)
+	because the integers are stored only ones.
+	
+2) Time complexity : -O(n)
+	it is recusive method so it iterate n times 
+
+   Space complexity :- O(n)
+   In this method recurtion method iterate n times
+   
+ 3) Time complexity :- O(2n)
+ 	In this code two for loop are executed first is iterate for n times and 2 nd loop iterate n times n+n=2n.
+ 	
+ 	Space complexity :- O(1)
+ 	in this code interger value stores only ones
+ 
+ 4) Time Complexity :- 
+ 
+    Space complexity:-
+    
+ 5) Time Complexity :- O(n)
+ 		It is recusive method so it iterrate n times
+ 		
+    Space Complexity :- O(1)
+    		beacause integrs stores only onees
+    		
+  
+  Analysis of code :
+  
+  In this code sumArray contains single loop the number of iterations in the loop is proportional to the input array therefore the time completity is O(n) and space complexity is O(1) because variables uses constant amount of memory That doesn't depend on size of the input
